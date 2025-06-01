@@ -18,6 +18,9 @@ Este é um aplicativo simples de **detecção de plágio** entre dois textos, co
 
 [![Veja](teste2.png)](test1.png)
 
+[![Veja](teste1.png)](test1.png)
+
+
 ---
 
 ## ✅ **Como usar**
