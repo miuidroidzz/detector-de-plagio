@@ -1,0 +1,3 @@
+scikit-learn
+fpdf
+python-docx
