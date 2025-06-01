@@ -16,7 +16,7 @@ Este é um aplicativo simples de **detecção de plágio** entre dois textos, co
 
 ## ✅ **Exemplo de uso**
 
-![Exemplo do Detector de Plágio](ba2df5d5-2d90-4dbc-afd9-a56dbba705fe.png)
+[![Veja](teste2.png)](test1.png)
 
 ---
 
